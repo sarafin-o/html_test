@@ -1,0 +1,15 @@
+    body {
+     padding: 0;
+     margin: 0 auto;
+     font-family: Arial;
+     
+   }
+   header {
+    padding:0;
+    margin:0;
+    background: #413C3C;
+    background: linear-gradient(to bottom, #261E1E, #625C5C);
+    width: 100%;
+    height: 200px;
+   }
+   
